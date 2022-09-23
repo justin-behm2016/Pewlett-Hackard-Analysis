@@ -9,3 +9,8 @@ The purpose of this analysis was to take an in-depth look at employees nearing r
   - Finally, 1,090 retiring employees are assitant engineers. This number could become easier to deal with if for every 1.5-2     assistant engineers retiring, 1 full-time engineer was employed.
 
 ![retiring_titles_image](https://user-images.githubusercontent.com/111502918/191968728-d7b5fff8-a0f0-4f0a-afd1-f0b22408578b.PNG)
+
+-Mentorship Eligibility
+
+
+![mentorship_eligibilty_image](https://user-images.githubusercontent.com/111502918/191971615-e1a471eb-b75a-420a-ac2b-798d999893f0.PNG)
