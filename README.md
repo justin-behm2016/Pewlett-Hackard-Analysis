@@ -8,4 +8,4 @@ The purpose of this analysis was to take an in-depth look at employees nearing r
   - The image also displays that only 2 retiring employees are currently employed at a managerial level. This again leaves      the option of promoting from within to fill the management void, or shows that management could be an area lacking            adequate employment within the company.
   - Finally, 1,090 retiring employees are assitant engineers. This number could become easier to deal with if for every 1.5-2     assistant engineers retiring, 1 full-time engineer was employed.
 
-![Retiring Employees Based on Title]([retiring_titles_image](https://user-images.githubusercontent.com/111502918/191968728-d7b5fff8-a0f0-4f0a-afd1-f0b22408578b.PNG)
+[Retiring Employees Based on Title](![retiring_titles_image](https://user-images.githubusercontent.com/111502918/191968728-d7b5fff8-a0f0-4f0a-afd1-f0b22408578b.PNG)
