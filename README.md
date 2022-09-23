@@ -12,9 +12,10 @@ The purpose of this analysis was to take an in-depth look at employees nearing r
 ![retiring_titles_image](https://user-images.githubusercontent.com/111502918/191968728-d7b5fff8-a0f0-4f0a-afd1-f0b22408578b.PNG)
 
 -Mentorship Eligibility
-  *The image below shows an example of a filterable table made from the mentorship eligibility CSV file. The file shows a       list of 1,549 employees eligible for a new mentorship program.
+
+  -The image below shows an example of a filterable table made from the mentorship eligibility CSV file. The file shows a       list of 1,549 employees eligible for a new mentorship program.
   
-  *Utilizing these staff members as mentors could lessen the blow received from mass retirement within the company.            Additionally, the use of experienced and trusted staff could create a foundation that yields both higher quantity and      quality of future work done by current staff members.
+  -Utilizing these staff members as mentors could lessen the blow received from mass retirement within the company.            Additionally, the use of experienced and trusted staff could create a foundation that yields both higher quantity and      quality of future work done by current staff members.
 
 ![mentorship_eligibilty_image](https://user-images.githubusercontent.com/111502918/191971615-e1a471eb-b75a-420a-ac2b-798d999893f0.PNG)
 
